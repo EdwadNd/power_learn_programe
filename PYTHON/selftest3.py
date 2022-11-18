@@ -22,7 +22,7 @@ guess = random.randrange(1, 9, 1)
 
 while True:
     number = int(input())
-    break
+    ## break  
     if number == guess:
         print("Well guessed!")
         break
