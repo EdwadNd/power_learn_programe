@@ -1,0 +1,6 @@
+PROGRAMMING WITH EVENTS
+events are events that fire in the browzer that shows
+Even listeners are called for an action to be performed once an event has occurred.
+Event listeners are always waiting for an event to occur to handle them accordingly.
+Event handlers respond to events as they happen.
+Note that: Developers do not create events, they create event listeners.
